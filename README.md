@@ -1,4 +1,4 @@
-# 🏪 Supermarket Store Branches — Sales Analysis (PPDAC Framework)
+# 🏪 Supermarket Store Branches Sales Analysis
 
 > A data driven sales performance analysis across multiple supermarket branches, following the **PPDAC research methodology (Problem–Plan–Data–Analysis–Conclusion)**.  
 > This project showcases advanced **data cleaning**, **KPI derivation**, and **visual analytics** with Python - fully automated through the script `build_stores_analysis.py`.
