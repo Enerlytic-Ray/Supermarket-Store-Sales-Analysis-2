@@ -5,13 +5,13 @@ Electrical Engineer | Data Analyst | ML Enthusiast
 🔗 [LinkedIn](https://www.linkedin.com/in/enerlytic-ray) | [GitHub](https://github.com/Enerlytic-Ray)
 
 > A data driven sales performance analysis across multiple supermarket branches, following the **PPDAC research methodology (Problem–Plan–Data–Analysis–Conclusion)**.  
-> This project showcases advanced **data cleaning**, **KPI derivation**, and **visual analytics** with Python - fully automated through the script `build_stores_analysis.py`.
+> This project showcases advanced **data cleaning**, **KPI derivation**, and **visual analytics** with Python fully automated through the script `Store.py`.
 
 ---
 
 ## 📘 Project Overview
-This repository presents a **comprehensive exploratory analysis** of *Supermarket Branch Sales* data using a structured, research-based PPDAC approach.  
-The objective is to uncover store-level performance insights, analyze operational metrics, and visualize relationships between customer traffic, store area, and total sales.
+This repository presents a **comprehensive exploratory analysis** of *Supermarket Branch Sales* data using a structured, research based PPDAC approach.  
+The objective is to uncover store level performance insights, analyze operational metrics, and visualize relationships between customer traffic, store area, and total sales.
 
 The analysis is fully reproducible, automated, and generates both visual outputs and a Jupyter notebook for interactive exploration.
 
@@ -30,7 +30,6 @@ The analysis is fully reproducible, automated, and generates both visual outputs
 ---
 
 ## ⚙️ Project Structure
-
 
 ---
 
@@ -78,9 +77,9 @@ Each chart is saved into `/stores_assets/` and embedded in the generated Jupyter
 ## 📈 Sample Output Preview
 > (You can view all charts in the `/stores_assets/` folder or within the generated notebook.)
 
-![Top 10 Stores by Sales](stores_assets/top10_stores.png)
+![Top 10 Stores by Sales](top10_stores.png)
 
-![Correlation Matrix](stores_assets/correlation_matrix.png)
+![Correlation Matrix](correlation_matrix.png)
 
 ---
 
@@ -103,15 +102,6 @@ Each chart is saved into `/stores_assets/` and embedded in the generated Jupyter
 - Research Framework (PPDAC) Application  
 - Automated Notebook Generation  
 - Professional Reporting Workflow  
-
----
-
-## 🧾 Citation
-
-Data Reference: Supermarket Store Branches PDF (provided in repository)
-License: Public domain or academic fair use
-
----
 
 **“Turning data into decisions through structure, clarity, and visual analytics.”**
 **- Adejoro Raymond Olaotan**
