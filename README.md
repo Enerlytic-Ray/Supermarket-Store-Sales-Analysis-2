@@ -29,10 +29,6 @@ The analysis is fully reproducible, automated, and generates both visual outputs
 
 ---
 
-## ⚙️ Project Structure
-
----
-
 ## 🧰 Tools & Technologies
 
 | Category | Tools Used |
@@ -74,8 +70,8 @@ Each chart is saved into `/stores_assets/` and embedded in the generated Jupyter
 
 ---
 
-## 📈 Sample Output Preview
-> (You can view all charts in the `/stores_assets/` folder or within the generated notebook.)
+## 📈 Two Output Preview
+> (You can view all charts in each of the uploaded png image)
 
 ![Top 10 Stores by Sales](top10_stores.png)
 
