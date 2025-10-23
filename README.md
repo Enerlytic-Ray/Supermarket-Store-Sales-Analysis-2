@@ -1,15 +1,11 @@
 # 🏪 Supermarket Store Branches Sales Analysis
-
-> A data driven sales performance analysis across multiple supermarket branches, following the **PPDAC research methodology (Problem–Plan–Data–Analysis–Conclusion)**.  
-> This project showcases advanced **data cleaning**, **KPI derivation**, and **visual analytics** with Python - fully automated through the script `build_stores_analysis.py`.
-
----
-
-## ✍️ Author
-**Adejoro Raymond Olaotan**  
+## ✍️ By Adejoro Raymond Olaotan  
 Electrical Engineer | Data Analyst | ML Enthusiast  
 📧 [raydey04@gmail.com](mailto:raydey04@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/enerlytic-ray) | [GitHub](https://github.com/Enerlytic-Ray)
+
+> A data driven sales performance analysis across multiple supermarket branches, following the **PPDAC research methodology (Problem–Plan–Data–Analysis–Conclusion)**.  
+> This project showcases advanced **data cleaning**, **KPI derivation**, and **visual analytics** with Python - fully automated through the script `build_stores_analysis.py`.
 
 ---
 
