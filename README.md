@@ -1,8 +1,5 @@
 # 🏪 Supermarket Store Branches Sales Analysis
-## ✍️ By Adejoro Raymond Olaotan  
-Electrical Engineer | Data Analyst | ML Enthusiast  
-📧 [raydey04@gmail.com](mailto:raydey04@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/enerlytic-ray) | [GitHub](https://github.com/Enerlytic-Ray)
+## 👨‍💻 By Adejoro Raymond Olaotan 
 
 > A data driven sales performance analysis across multiple supermarket branches, following the **PPDAC research methodology (Problem–Plan–Data–Analysis–Conclusion)**.  
 > This project showcases advanced **data cleaning**, **KPI derivation**, and **visual analytics** with Python fully automated through the script `Store.py`.
@@ -97,7 +94,14 @@ Each chart is saved into `/stores_assets/` and embedded in the generated Jupyter
 - Statistical Visualization & Correlation Analysis  
 - Research Framework (PPDAC) Application  
 - Automated Notebook Generation  
-- Professional Reporting Workflow  
+- Professional Reporting Workflow
+
+
+
+## 👨‍💻 Adejoro Raymond Olaotan 
+- Electrical Engineer | Data Analyst | ML Enthusiast  
+📧 [raydey04@gmail.com](mailto:raydey04@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/enerlytic-ray) | [GitHub](https://github.com/Enerlytic-Ray)
 
 **“Turning data into decisions through structure, clarity, and visual analytics.”**
 **- Adejoro Raymond Olaotan**
