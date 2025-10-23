@@ -91,7 +91,7 @@ Each chart is saved into `/stores_assets/` and embedded in the generated Jupyter
 
 ---
 
-## 🧠 Skills Demonstrated
+## 🧠 Project Structure
 - End-to-End Analytical Automation in Python  
 - Data Cleaning & Feature Engineering  
 - Statistical Visualization & Correlation Analysis  
